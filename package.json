@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart.git"
   },
-  "main": "dist/js2flowchart.js",
+  "main": "chart-svg/js2flowchart.js",
   "scripts": {
     "dev": "webpack --progress --colors --watch --env dev",
     "build": "NODE_ENV=production webpack --progress",
